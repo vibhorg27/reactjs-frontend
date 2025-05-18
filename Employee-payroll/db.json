@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "1f9c",
+      "name": "sdfsd",
+      "profileImage": "🧑‍💼",
+      "gender": "Male",
+      "departments": [
+        "HR"
+      ],
+      "salary": "237823786236",
+      "startDay": "13",
+      "startMonth": "August",
+      "startYear": "2015",
+      "notes": "5345345"
+    }
+  ]
+}
